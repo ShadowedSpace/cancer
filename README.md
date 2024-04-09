@@ -3,10 +3,10 @@
 ## Project Proposal
 
 ### Abstract
-
+We are examining the relationship between skin cancer detection accuracy and skin tone. We will use a dataset of skin cancer images and their associated skin tones to train a model to predict the likelihood of a skin cancer image being correctly classified. We will then use this model to predict the likelihood of a skin cancer image being correctly classified based on skin tone.
 
 ### Motivation and Question
-
+Many people assume that skin cancer can only affect individuals with lighter skin tones, however, this is not the case. We want to determine whether this bias is reflected in skin cancer diagnoses. We also want to discover whether this bias is reflected in the accuracy of skin cancer detection models. 
 
 ### Planned Deliverables
 
