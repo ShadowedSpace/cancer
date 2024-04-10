@@ -20,6 +20,10 @@ The dataset is quite large — over 10000 images– so we may need increased com
 
 ### What You Will Learn
 
+**Julia Nerenberg**
+I plan on focusing my learning on image analysis. The classwork and warmup for 4/9 were very applicable to this and will drastically aid in our implementation methods, so I expect that this project will dive more into those same techniques. I am also excited to improve my collaboration skills using git, which are a bit rusty. I’m also the only group member who has significantly used ADA, so I am hoping this will allow me to take on more of a leadership role than I have in past CS projects.
+
+
 **Zoe Greenwald**
 Since my conversation with Phil last semester, one of my goals in taking this class has been to complete an in-depth project using machine learning as a tool to help with cancer diagnosis. One topic we haven’t discussed in depth in class is image classification, so I’m looking forward to combining these two ideas to gain some experience working with different types of vectorization schemes.
 
