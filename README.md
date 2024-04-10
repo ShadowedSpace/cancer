@@ -15,7 +15,9 @@
 
 
 ### Resources Required
+The dataset is publicly available, for free, on the Harvard Dataverse: [Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 
+The dataset is quite large — 1511 images– so we may need increased computing power via Middlebury’s ADA.
 
 ### What You Will Learn
 
