@@ -34,6 +34,7 @@ In this final project, while this was not an initial goal of mine, I am interest
 I look forward to applying what I’ve learned in this course to an in-depth project. Our idea allows for a deeper dive into specific image-processing techniques, the theory behind classification models, and a social responsibility analysis of a white-dominated dataset. As mentioned in my mid-course reflection, I hope to work on interpersonal, team organization, and presentation skills.
 
 ### Risk Statement
+
 First, if the cancer is not able to be classified as malignant or benign through just images, whatever model we run will not work. 
 
 Second, images take up a lot of disk space and while we believe the dataset we chose is compact enough to run on our personal computers, we may need to resort to using the school desktop computers or ADA.
@@ -43,7 +44,7 @@ Cancer is a terrible disease that negatively impacts countless people. Our proje
 We argue that our project will make the world a better place because:
 - The world is a better place when fewer people are sick
 - Skin cancers can be identified based on appearance 
-- Treatment works best when cancers are detected early, and an automated preliminary screening process will make detections more accessible
+- Treatment works best when cancers are detected early, and an automated preliminary screening process will make early detection more accessible
 
 ### Tentative Timeline
 
