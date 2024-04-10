@@ -7,7 +7,7 @@
 Primarily, we want to train a model to predict malignancy and type of skin lesions. Skin cancer is a massive issue worldwide and one where machine learning could be used to improve outcomes and accessibility to services. Using images of skin lesions as our dataset, we will use clustering to classify between benign and malignant, as well as differentiating between types of malignant lesions. Catching cancer early, and characterizing the malignancy can make a huge difference in the care provided to patients, and their comfort.
 
 ### Motivation and Question
-
+The difference between a benign and malignant cancer may mean the difference between life and death. In our project, we aim to classify skin cancer images into benign and malignant categories early in order to provide proper treatment before progression of the disease increases risk.
 
 ### Planned Deliverables
 1. A Jupyter notebook with model development and evaluation process
