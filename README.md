@@ -15,7 +15,7 @@ Many people assume that skin cancer can only affect individuals with lighter ski
 
 
 ### What You Will Learn
-
+I look forward to applying what I’ve learned in this course to an in-depth project. Our idea allows for a deeper dive into specific image-processing techniques, the theory behind classification models, and a social responsibility analysis of a white-dominated dataset. As mentioned in my mid-course reflection, I hope to work on interpersonal, team organization, and presentation skills.
 
 ### Risk Statement
 
