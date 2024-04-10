@@ -1,4 +1,5 @@
 # CANCER
+#### Zoe Greenwald, Breanna Guo, Julia Nerenberg, Liz Rightmire
 
 ## Project Proposal
 
@@ -24,3 +25,11 @@ Many people assume that skin cancer can only affect individuals with lighter ski
 
 
 ### Tentative Timeline
+
+Week 9:Come up with the idea, motivation, and find a dataset. Explore the availability of non-white skin cancer images 
+
+Week 10:Dataset exploration/start analysis: Create a model
+
+Week 11:Evaluate the model: Review analysis bias
+
+Week 12:Final Presentation
