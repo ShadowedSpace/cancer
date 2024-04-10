@@ -21,6 +21,9 @@ The dataset is quite large — 1511 images– so we may need increased computing
 
 ### What You Will Learn
 
+**Zoe Greenwald**
+Since my conversation with Phil last semester, one of my goals in taking this class has been to complete an in-depth project using machine learning as a tool to help with cancer diagnosis. One topic we haven’t discussed in depth in class is image classification, so I’m looking forward to combining these two ideas to gain some experience working with different types of vectorization schemes.
+
 **Breanna Guo**
 In this final project, while this was not an initial goal of mine, I am interested in learning more about how image classification works. I found the lecture on the topic of kernels fascinating and would love to gain more knowledge on that topic. Additionally, I would like to learn more about cancer. Zoe brought this idea to the group and if we truly are able to classify cancer types, it would be interesting to learn more about the cancer and that it is visually classifiable.
 
