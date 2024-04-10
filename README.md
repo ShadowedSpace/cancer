@@ -17,6 +17,10 @@ Many people assume that skin cancer can only affect individuals with lighter ski
 
 ### What You Will Learn
 
+**Breanna Guo**
+In this final project, while this was not an initial goal of mine, I am interested in learning more about how image classification works. I found the lecture on the topic of kernels fascinating and would love to gain more knowledge on that topic. Additionally, I would like to learn more about cancer. Zoe brought this idea to the group and if we truly are able to classify cancer types, it would be interesting to learn more about the cancer and that it is visually classifiable.
+
+
 
 ### Risk Statement
 First, if the cancer is not able to be classified as malignant or benign through just images, whatever model we run will not work. 
