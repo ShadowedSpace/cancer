@@ -10,6 +10,8 @@ We are examining the relationship between skin cancer detection accuracy and ski
 Many people assume that skin cancer can only affect individuals with lighter skin tones, however, this is not the case. We want to determine whether this bias is reflected in skin cancer diagnoses. We also want to discover whether this bias is reflected in the accuracy of skin cancer detection models. 
 
 ### Planned Deliverables
+1. A Jupyter notebook with model development and evaluation process
+2. Brief exploration into the availability of skin cancer data for diverse skin tones
 
 
 ### Resources Required
