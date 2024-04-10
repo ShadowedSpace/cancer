@@ -19,7 +19,9 @@ Many people assume that skin cancer can only affect individuals with lighter ski
 
 
 ### Risk Statement
+First, if the cancer is not able to be classified as malignant or benign through just images, whatever model we run will not work. 
 
+Second, images take up a lot of disk space and while we believe the dataset we chose is compact enough to run on our personal computers, we may need to resort to using the school desktop computers or ADA.
 
 ### Ethics Statement
 
