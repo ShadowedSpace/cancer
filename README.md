@@ -20,6 +20,7 @@ Many people assume that skin cancer can only affect individuals with lighter ski
 **Breanna Guo**
 In this final project, while this was not an initial goal of mine, I am interested in learning more about how image classification works. I found the lecture on the topic of kernels fascinating and would love to gain more knowledge on that topic. Additionally, I would like to learn more about cancer. Zoe brought this idea to the group and if we truly are able to classify cancer types, it would be interesting to learn more about the cancer and that it is visually classifiable.
 
+**Liz Rightmire**
 I look forward to applying what I’ve learned in this course to an in-depth project. Our idea allows for a deeper dive into specific image-processing techniques, the theory behind classification models, and a social responsibility analysis of a white-dominated dataset. As mentioned in my mid-course reflection, I hope to work on interpersonal, team organization, and presentation skills.
 
 ### Risk Statement
